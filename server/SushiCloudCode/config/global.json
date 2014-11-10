@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "sushi"
+        }, 
+        "sushi": {
+            "applicationId": "3786Rq1FXTLWqmVEPIH6Oe4ZMcbyj2o6eIzRsxRC", 
+            "masterKey": "i1cJJYqONAzz4ZMFDbgztbomXfwHjThgSWQyGcWx"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
