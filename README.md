@@ -1,4 +1,6 @@
+
 # Sushi
+![sushi](app/src/main/res/drawable-mdpi/ic_launcher.png)
 
 Sushi is a framework to keep data always fresh in your mobile application.
 With a little bit of code in your mobile application and the upload of a generic cloud function in [Parse](http://www.parse.com), when every data you are interested in is saved on server, your mobile application can get it.
@@ -44,7 +46,7 @@ Improvements will be :
 - __Continuous query__ : add parameters to subscription
 - __iOS support__ : use push notification to set a flag, that we use to make or not a request in a "background fetch" mode
 
-Sushi is an open idea, and we can support other triggers too. Some ideas :
+Sushi is an open idea, and it can support other triggers too. Some ideas :
 
 - __Git__ : on push, use a hook to synchronize data (can be a good CMS candidate)
-- __Elastic Search__ : "percolate" capabilities can be interesting  
+- __Elastic Search__ : "percolate" capabilities can be interesting to trigger   
