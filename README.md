@@ -1,6 +1,6 @@
 
 # Sushi
-![sushi](app/src/main/res/drawable-mdpi/ic_launcher.png)
+![sushi](sushiapp/src/main/res/drawable-mdpi/ic_launcher.png)
 
 Sushi is a framework to keep data always fresh in your mobile application.
 With a little bit of code in your mobile application and the upload of a generic cloud function in [Parse](http://www.parse.com), when every data you are interested in is saved on server, your mobile application can get it.
